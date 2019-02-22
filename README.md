@@ -6,13 +6,13 @@ This type of representation involves two main aspects: the structure of the netw
 
 The transition probabilities can be computed from the number of isomorphic graphs found for the variation of the original network. See the examples for a dynamics that consists of erasing a single edge from the network. 
 
-![](/images/example1.png)
+<img align="center" width="393" height="126" src="./figures/example1.png">
 
 In this example, because of all possibilities of edge remotion lead to the same variation, the calculated malleability is 1.0.
 
 Taking another example, in which the dynamics of edge remotion leads to some variations of the network
 
-![](/images/example2.png)
+<img align="center" width="378" height="270" src="./figures/example2.png">
 
 In this case, the calculated malleability is approximately 1.89.
 

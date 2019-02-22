@@ -1,4 +1,4 @@
-#Malleability
+# Malleability
 
 For a given state of a dynamical system, represented by a complex network (topology), it is interesting to quantify the number of new possible topologies that can be obtained from the current state as a consequence of modifications/perturbations induced by some dynamics acting on the network topology. An example is the number of different power grid networks that will result after one connection is removed. An approach to this type of quantification was recently proposed by Costa's group and is called Malleability.
 
